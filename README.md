@@ -1,27 +1,80 @@
-$ whoami<br>
-Naveen Bharath<br><br>
-$ alias | grep name<br>
-alias name='axolotl'<br><br>
-$ tree -L 2 ~/skills<br>
-skills<br>
-├── systems-programming<br>
-│&nbsp;&nbsp;&nbsp;├── linux-internals<br>
-│&nbsp;&nbsp;&nbsp;├── emulation-and-vms<br>
-│&nbsp;&nbsp;&nbsp;└── low-level-tooling<br>
-├── backend-engineering<br>
-│&nbsp;&nbsp;&nbsp;├── api-design<br>
-│&nbsp;&nbsp;&nbsp;├── authentication-and-rbac<br>
-│&nbsp;&nbsp;&nbsp;├── databases-and-indexing<br>
-│&nbsp;&nbsp;&nbsp;└── concurrency-and-scaling<br>
-└── offensive-security<br>
-&nbsp;&nbsp;&nbsp;&nbsp;├── penetration-testing<br>
-&nbsp;&nbsp;&nbsp;&nbsp;├── malware-development<br>
-&nbsp;&nbsp;&nbsp;&nbsp;├── network-attacks<br>
-&nbsp;&nbsp;&nbsp;&nbsp;└── evasion-techniques<br><br>
-$ cat desc.md<br>
-I work close to the system.<br>
-I build backend services, write low-level tooling, and do offensive security research.<br>
-Focus areas include Linux internals, scalable backends, and practical exploitation.<br>
+<div align="center">
+
+```bash
+$ whoami
+Naveen Bharath
+
+$ alias | grep name
+alias name='axolotl'
+```
+
+</div>
+
+---
+
+<table>
+<tr>
+<td valign="top">
+
+### systems-engineering
+
+```txt
+├── linux-internals
+├── virtualization-and-emulation
+├── networking
+└── low-level-tooling
+```
+
+</td>
+
+<td valign="top">
+
+### distributed-backend
+
+```txt
+├── api-design
+├── databases-and-indexing
+├── concurrency
+├── distributed-systems
+└── observability
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### desc.md
+
+```md
+I work close to the system.
+
+Focused on backend infrastructure, distributed systems,
+Linux internals, networking, and low-level engineering.
+
+I enjoy building performant software, understanding how
+systems behave under scale and failure, and creating tools
+that interact directly with the operating system.
+
+Outside engineering, I spend time watching anime,
+playing games, and getting lost in the Star Wars universe.
+
+May the Force be with you.
+```
+
+---
+
+### interests.txt
+
+```txt
+- Star Wars
+- Anime
+- Games
+- Linux ricing
+- Systems programming
+- Infrastructure engineering
+```
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axolotl.was.here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/naveen-bharath-27569b2a9) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/axolotlwho) 
