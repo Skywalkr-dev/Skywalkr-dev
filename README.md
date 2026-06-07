@@ -1,13 +1,11 @@
 <div align="left">
 
-<img src="./tmux-profile.svg" alt="terminal profile" />
+<img src="./wide_1.jpg" alt="terminal profile" />
 
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=0&color=a6e3a1&center=false&vCenter=false&width=200&height=24&lines=PRIMARY+STACK" alt="primary stack" />
-
+<3 May the force be with you<br/><br/>
+▶︎•၊၊||၊|။||||။‌‌‌‌၊|• 0:30
 <br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,mysql,postgres,docker,kubernetes,linux,bash,ansible,grafana,nginx,kafka&theme=dark" />
-
+<b>♪ let it happen</b><br/><br/>
+backend | systems programming | distributed systems | linux
 </div>
