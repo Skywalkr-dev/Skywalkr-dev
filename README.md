@@ -1,11 +1,9 @@
-<div align="left">
+![terminal profile](./wide_1.jpg)
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,rust,go,python,docker,kubernetes,postgres,redis,kafka,nginx,ansible,aws)
 
-<img src="./wide_1.jpg" alt="terminal profile" />
+<3 May the force be with you
 
-<br/>
-<3 May the force be with you<br/><br/>
-▶︎•၊၊||၊|။||||။‌‌‌‌၊|• 0:30
-<br/>
-<b>♪ let it happen</b><br/><br/>
-backend | systems programming | distributed systems | linux
-</div>
+Backend and systems engineer focused on distributed systems and containers.
+
+
+Distributed Systems | Microservices | Kernel Virtualization
